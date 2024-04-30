@@ -10,7 +10,7 @@ This repository contains Python scripts for analyzing weather data using various
 
 ## Scripts Included
 
-- `weather_data_analysis.ipynb`: Jupyter Notebook containing Python code for data analysis and visualization.
+- `Weather_Forecast.ipynb`: Jupyter Notebook containing Python code for data analysis and visualization.
 ## Data Source
 
 The weather data used in these scripts is sourced from [Daily Delhi Climate Data](https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data).
